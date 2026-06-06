@@ -79,6 +79,6 @@ Helped identify growth opportunities and operational improvements.
 
 ## 6.Screenshot/Demo 
 
-Show what the dashboard looks like. - ![Alt text].().
-Example: ![Dashboard Preview].().
+Show what the dashboard looks like. - ![Alt text].(https://github.com/Yuktapoojary03/Madhav-Ecommerce-Sales-Dashboard-/blob/main/Snapshot%20of%20Madhav%20Ecommerce%20Sales%20Dashboard.PNG).
+Example: ![Dashboard Preview].(https://github.com/Yuktapoojary03/Madhav-Ecommerce-Sales-Dashboard-/blob/main/Snapshot%20of%20Madhav%20Ecommerce%20Sales%20Dashboard.PNG).
 
